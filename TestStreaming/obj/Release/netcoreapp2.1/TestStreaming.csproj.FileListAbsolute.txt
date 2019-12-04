@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\TestStreaming.deps.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\TestStreaming.runtimeconfig.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\TestStreaming.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\TestStreaming.dll
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\bin\Release\netcoreapp2.1\TestStreaming.pdb
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.RazorAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.RazorAssemblyInfo.cs
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.dll
+C:\Users\Gabriel\source\repos\TestStreaming\TestStreaming\obj\Release\netcoreapp2.1\TestStreaming.pdb
